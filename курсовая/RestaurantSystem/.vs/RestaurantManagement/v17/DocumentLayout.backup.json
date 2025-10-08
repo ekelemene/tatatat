@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|d:\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\restaurantsystem\\restaurantsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:restaurantsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E703461-D97A-4984-883B-A98A99B2AC3B}|..\\RestaurantManagementTests\\RestaurantManagementTests.csproj|d:\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\restaurantmanagementtests\\restaurantsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC12D3BB-CD42-4EE7-BDDA-BCE11C7B5E35}|RestaurantManagement.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:36:05.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:35:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:43:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantSystem.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\RestaurantSystem.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\RestaurantSystem.cs",
+              "RelativeToolTip": "RestaurantSystem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:49:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:49:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Table.cs",
+              "RelativeDocumentMoniker": "Table.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Table.cs",
+              "RelativeToolTip": "Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:41:08.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Waiter.cs",
+              "RelativeDocumentMoniker": "Waiter.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Waiter.cs",
+              "RelativeToolTip": "Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:41:06.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:39:08.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:48:49.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Waiter.cs",
+              "RelativeDocumentMoniker": "Waiter.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Waiter.cs",
+              "RelativeToolTip": "Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:47:53.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:47:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Table.cs",
+              "RelativeDocumentMoniker": "Table.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Table.cs",
+              "RelativeToolTip": "Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:45:38.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T19:03:45.754Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:40:42.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantSystemTests.cs",
+              "DocumentMoniker": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantManagementTests\\RestaurantSystemTests.cs",
+              "RelativeDocumentMoniker": "..\\RestaurantManagementTests\\RestaurantSystemTests.cs",
+              "ToolTip": "D:\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\RestaurantManagementTests\\RestaurantSystemTests.cs",
+              "RelativeToolTip": "..\\RestaurantManagementTests\\RestaurantSystemTests.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:33:34.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
